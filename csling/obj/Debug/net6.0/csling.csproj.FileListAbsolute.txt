@@ -1,0 +1,15 @@
+C:\Users\ajmcl\Paradigms\csling\bin\Debug\net6.0\csling.exe
+C:\Users\ajmcl\Paradigms\csling\bin\Debug\net6.0\csling.deps.json
+C:\Users\ajmcl\Paradigms\csling\bin\Debug\net6.0\csling.runtimeconfig.json
+C:\Users\ajmcl\Paradigms\csling\bin\Debug\net6.0\csling.dll
+C:\Users\ajmcl\Paradigms\csling\bin\Debug\net6.0\csling.pdb
+C:\Users\ajmcl\Paradigms\csling\obj\Debug\net6.0\csling.csproj.AssemblyReference.cache
+C:\Users\ajmcl\Paradigms\csling\obj\Debug\net6.0\csling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajmcl\Paradigms\csling\obj\Debug\net6.0\csling.AssemblyInfoInputs.cache
+C:\Users\ajmcl\Paradigms\csling\obj\Debug\net6.0\csling.AssemblyInfo.cs
+C:\Users\ajmcl\Paradigms\csling\obj\Debug\net6.0\csling.csproj.CoreCompileInputs.cache
+C:\Users\ajmcl\Paradigms\csling\obj\Debug\net6.0\csling.dll
+C:\Users\ajmcl\Paradigms\csling\obj\Debug\net6.0\refint\csling.dll
+C:\Users\ajmcl\Paradigms\csling\obj\Debug\net6.0\csling.pdb
+C:\Users\ajmcl\Paradigms\csling\obj\Debug\net6.0\csling.genruntimeconfig.cache
+C:\Users\ajmcl\Paradigms\csling\obj\Debug\net6.0\ref\csling.dll
