@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\ajmcl\Paradigms\csling\example1\bin\Debug\net6.0\example1.exe
 C:\Users\ajmcl\Paradigms\csling\example1\bin\Debug\net6.0\example1.deps.json
 C:\Users\ajmcl\Paradigms\csling\example1\bin\Debug\net6.0\example1.runtimeconfig.json
@@ -13,3 +14,20 @@ C:\Users\ajmcl\Paradigms\csling\example1\obj\Debug\net6.0\refint\example1.dll
 C:\Users\ajmcl\Paradigms\csling\example1\obj\Debug\net6.0\example1.pdb
 C:\Users\ajmcl\Paradigms\csling\example1\obj\Debug\net6.0\example1.genruntimeconfig.cache
 C:\Users\ajmcl\Paradigms\csling\example1\obj\Debug\net6.0\ref\example1.dll
+=======
+C:\Repos\Paradigms\csling\example1\bin\Debug\net6.0\example1.exe
+C:\Repos\Paradigms\csling\example1\bin\Debug\net6.0\example1.deps.json
+C:\Repos\Paradigms\csling\example1\bin\Debug\net6.0\example1.runtimeconfig.json
+C:\Repos\Paradigms\csling\example1\bin\Debug\net6.0\example1.dll
+C:\Repos\Paradigms\csling\example1\bin\Debug\net6.0\example1.pdb
+C:\Repos\Paradigms\csling\example1\obj\Debug\net6.0\example1.csproj.AssemblyReference.cache
+C:\Repos\Paradigms\csling\example1\obj\Debug\net6.0\example1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Paradigms\csling\example1\obj\Debug\net6.0\example1.AssemblyInfoInputs.cache
+C:\Repos\Paradigms\csling\example1\obj\Debug\net6.0\example1.AssemblyInfo.cs
+C:\Repos\Paradigms\csling\example1\obj\Debug\net6.0\example1.csproj.CoreCompileInputs.cache
+C:\Repos\Paradigms\csling\example1\obj\Debug\net6.0\example1.dll
+C:\Repos\Paradigms\csling\example1\obj\Debug\net6.0\refint\example1.dll
+C:\Repos\Paradigms\csling\example1\obj\Debug\net6.0\example1.pdb
+C:\Repos\Paradigms\csling\example1\obj\Debug\net6.0\example1.genruntimeconfig.cache
+C:\Repos\Paradigms\csling\example1\obj\Debug\net6.0\ref\example1.dll
+>>>>>>> 4f9cfb5c5fe63600300006ad2a0cce5847005b51
