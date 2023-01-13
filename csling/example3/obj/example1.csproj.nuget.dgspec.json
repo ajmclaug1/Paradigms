@@ -1,28 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\Paradigms\\csling\\example1\\example1.csproj": {}
+    "C:\\Users\\ajmcl\\Paradigms\\csling\\example1\\example1.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\Paradigms\\csling\\example1\\example1.csproj": {
+    "C:\\Users\\ajmcl\\Paradigms\\csling\\example1\\example1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\Paradigms\\csling\\example1\\example1.csproj",
+        "projectUniqueName": "C:\\Users\\ajmcl\\Paradigms\\csling\\example1\\example1.csproj",
         "projectName": "example1",
-        "projectPath": "C:\\Repos\\Paradigms\\csling\\example1\\example1.csproj",
-        "packagesPath": "C:\\Users\\AnthonyMcLaughlin\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\Paradigms\\csling\\example1\\obj\\",
+        "projectPath": "C:\\Users\\ajmcl\\Paradigms\\csling\\example1\\example1.csproj",
+        "packagesPath": "C:\\Users\\ajmcl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ajmcl\\Paradigms\\csling\\example1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\AnthonyMcLaughlin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ajmcl\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {}
         },
         "frameworks": {
           "net6.0": {

@@ -10,6 +10,10 @@ namespace Csling
         {
             IEnumerable<string> cities = new[] {"Ghent", "London", "Las Vegas", "Rivia"};
 
+            Func<int, int> square = x => x * x;
+
+            Console.WriteLine(square(3));
+
            
         }
 

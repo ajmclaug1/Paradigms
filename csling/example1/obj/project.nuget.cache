@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HOnvxn05jtAnWvvA2VzbeziFwEyzCTpD6zS2N/sJ32dolYfcKdnSIwULy7C/iPe77ksd55mh+/8bSMrIFNhfyQ==",
+  "dgSpecHash": "GOWxgk31okkuUZPyTTUVU68lIU1Tp4pSCxShzsS/ZDAkgEMjES6ScTtN6aFK7YiYGF/oYBOZdcn4DoXuUJP6xw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ajmcl\\Paradigms\\csling\\example1\\example1.csproj",
+  "projectFilePath": "C:\\Repos\\Paradigms\\csling\\example1\\example1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

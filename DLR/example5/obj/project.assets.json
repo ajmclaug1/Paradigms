@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repos\\Paradigms\\csling\\example1\\example1.csproj",
-      "projectName": "example1",
-      "projectPath": "C:\\Repos\\Paradigms\\csling\\example1\\example1.csproj",
+      "projectUniqueName": "C:\\Repos\\Paradigms\\DLR\\example5\\example5.csproj",
+      "projectName": "example5",
+      "projectPath": "C:\\Repos\\Paradigms\\DLR\\example5\\example5.csproj",
       "packagesPath": "C:\\Users\\AnthonyMcLaughlin\\.nuget\\packages\\",
-      "outputPath": "C:\\Repos\\Paradigms\\csling\\example1\\obj\\",
+      "outputPath": "C:\\Repos\\Paradigms\\DLR\\example5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AnthonyMcLaughlin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
